@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Cover Letter</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<meta charset="UTF-8" />
+ <meta name="description" content="My professional cover letter">
+  <meta name="author" content="Symphany Green">
+
+<script>
+   
+    function showDate() {
+      const dateBox = document.getElementById("date-box");
+      const today = new Date();
+      dateBox.innerHTML = "Today's date is: <strong>" + today.toDateString() + "</strong>";
+    }
+
+</script>
+
+<body onload="showDate()"></body>
+
+
+
+
+
+
+
+
+</head>
+
+
+<header>
+
+    
+          
+<h1>
+  Cover Letter 
+</h1>
+    
+ <img src="b3fbb3744c3dced669acaa7febfdfede.jpg" alt="Success is a decision" width="150"
+
+
+
+
+
+
+</header>
+
+<p style="position: absolute; top: 120px; left: 20px; max-width: 300px;">
+
+Symphany Green<br>
+1189 Thornbush Lane<br>
+Charlotte NC, 28262<br>
+symphanygreen18@gmail.com<br>
+704-231-6086<br>
+
+
+</p>
+
+<p  style="position: absolute; top: 120px; right: 20px; max-width:200px;">
+
+Sam Smith<br>
+IT Tech Solutions<br>
+4293 Idaho lane<br>
+Charlotte NC, 28262<br>
+
+<article>
+  
+  Dear Hiring Manager,
+
+I am writing to express my interest in the IT Specialist position at [Company Name]. With a solid foundation in computer systems, technical support, and problem-solving skills, I am confident in my ability to contribute effectively to your IT team.
+
+In my previous role, I provided technical assistance to users, troubleshot hardware and software issues, and supported network administration tasks. My certifications in CompTIA A+ and Information Technology Fundamentals have strengthened my knowledge of IT best practices, and my hands-on experience has taught me how to communicate complex technical information clearly to non-technical users.
+
+I am highly motivated, detail-oriented, and eager to learn new technologies. I believe my combination of technical skills and customer service experience makes me a great fit for your organization. I am excited about the opportunity to help maintain and improve your IT infrastructure.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team.
+
+Sincerely,
+<HR>
+</article>
+
+
+</p>
+
+
+<footer>
+    <p>© 2025 Symphany Green. All rights reserved.</p>
+  </footer>
